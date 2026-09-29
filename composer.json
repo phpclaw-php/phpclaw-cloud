@@ -16,18 +16,6 @@
             "email": "er.akashpatel1908@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "path",
-            "url": "../core",
-            "options": {
-                "symlink": false,
-                "versions": {
-                    "phpclaw/phpclaw": "0.1.0"
-                }
-            }
-        }
-    ],
     "require": {
         "php": "^8.1",
         "ext-curl": "*",
